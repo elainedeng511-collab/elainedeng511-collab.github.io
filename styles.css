@@ -1,8 +1,31 @@
 body {
-    background: #7C616C;
-    color: #DDCAD9; 
-    font-family: "Playfair Display";
+    background: #192A51;
+    color: #BDC6DB; 
+    font-family: Playfair Display, serif; 
     text-align: center; 
 }
+ . about {
+     bakcground: #967AA1;
+     color: #F0E5F5;
+     margin: 20px; 
+ }
+ . skills {
+     bakcground: #AAA1C8;
+     color: #180C3E
+     margin: 20px; 
+ }
+ . projects {
+     bakcground: #D5C6E0;
+     color: #473A51;
+     margin: 20px; 
+ }
+ . contact {
+     bakcground: #F5E6E8; 
+     color: #74575B;
+     margin: 20px; 
+ }
+
+
+  
 
   
